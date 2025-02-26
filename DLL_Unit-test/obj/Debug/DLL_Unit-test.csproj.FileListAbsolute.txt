@@ -1,0 +1,7 @@
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\bin\Debug\DLL_Unit-test.exe.config
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\bin\Debug\DLL_Unit-test.exe
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\bin\Debug\DLL_Unit-test.pdb
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\obj\Debug\DLL_Unit-test.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\obj\Debug\DLL_Unit-test.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\obj\Debug\DLL_Unit-test.exe
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\DLL_Unit-test\DLL_Unit-test\obj\Debug\DLL_Unit-test.pdb
