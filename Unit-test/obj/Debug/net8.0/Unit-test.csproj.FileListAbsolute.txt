@@ -86,8 +86,6 @@ C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\СибриковЕ._31П_2ПГ_DLL_Unit-test.dll
-C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\СибриковЕ._31П_2ПГ_DLL_Unit-test.pdb
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\obj\Debug\net8.0\Unit-test.csproj.AssemblyReference.cache
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\obj\Debug\net8.0\Unit-test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\obj\Debug\net8.0\Unit-test.AssemblyInfoInputs.cache
@@ -118,3 +116,4 @@ C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Егор\Desktop\СибриковЕ._31П_2ПГ_DLL_Unit-test\Unit-test\Unit-test\bin\Debug\net8.0\DLL_Unit-test.dll

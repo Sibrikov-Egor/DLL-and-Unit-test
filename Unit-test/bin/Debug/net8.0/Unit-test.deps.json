@@ -14,8 +14,8 @@
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.3",
           "xunit.runner.visualstudio": "2.5.3",
-          "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0",
-          "СибриковЕ._31П_2ПГ_DLL_Unit-test": "1.0.0.0"
+          "DLL_Unit-test": "1.0.0.0",
+          "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
           "Unit-test.dll": {}
@@ -1089,19 +1089,19 @@
         }
       },
       "xunit.runner.visualstudio/2.5.3": {},
+      "DLL_Unit-test/1.0.0.0": {
+        "runtime": {
+          "DLL_Unit-test.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
         "runtime": {
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
             "assemblyVersion": "14.0.0.0",
             "fileVersion": "3.800.225.11907"
-          }
-        }
-      },
-      "СибриковЕ._31П_2ПГ_DLL_Unit-test/1.0.0.0": {
-        "runtime": {
-          "СибриковЕ._31П_2ПГ_DLL_Unit-test.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -1757,12 +1757,12 @@
       "path": "xunit.runner.visualstudio/2.5.3",
       "hashPath": "xunit.runner.visualstudio.2.5.3.nupkg.sha512"
     },
-    "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
+    "DLL_Unit-test/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "СибриковЕ._31П_2ПГ_DLL_Unit-test/1.0.0.0": {
+    "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
